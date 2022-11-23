@@ -6,9 +6,7 @@ This Tool is for Scraping Group Accounts Of Telegram and Channel Members
 ***
  A free tool To Scrape Telegram Channel and Group Members
 ***
-<b>NOTE</b> > MESSAGE IF INTERESTED IN THE GUI VERSION ALSO.
-
-IF YOU NEED THE GUI VERSION OR A FREE GUIDE ON THE SCRIPT, MESSAGE ME HERE
+<b>NOTE</b> > MESSAGE ME HERE
  > https://t.me/cybergeeky
  
  # INSTALLATION
@@ -37,5 +35,8 @@ MESSAGE HERE > https://t.me/cybergeeky
 > scraper.py >>>> to scrape members
 
 > tsadder.py >>>> to add members
+
+##### Please ⭐ the repo to support my project
+![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
 
 
